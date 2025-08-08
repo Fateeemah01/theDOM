@@ -2,5 +2,5 @@
 In the beginning, there was the DOM
 ### Things covered:
 -HTML
-CSS
-Javascript
+-CSS
+-Javascript
